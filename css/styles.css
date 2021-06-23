@@ -1,0 +1,88 @@
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.post{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 380px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+span{
+    background-color: white;
+    font-weight: bold; 
+    font-size: 10px;
+}
+
+.encabezado{
+    
+    background-color: white;
+    height: 10%;
+}
+
+.logo{
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+}
+
+.lateral-logo{
+    
+    display: inline-block;
+    background-color: white;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    width: 20px;
+    
+}
+
+.trespuntos{
+    margin:8px 8px 0px 0px;
+    float: right;
+    background-color: white;
+    width: 7px;
+   
+   
+}
+
+.foto{
+   
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    margin:auto;
+}
+
+.iconos{
+    background-color: white;
+    width: 295px;
+    height: 30px;
+    
+}
+
+.likes{
+    
+    background-color: white;
+    width: 295px;
+    height: 20px;
+   
+}
+.caption{
+    
+    background-color: white;
+    width: 295px;
+    height: 60px
+}
+
+p, strong{
+    background-color: white;
+    font-size: 8px;
+    margin-left: 5px
+}
+
